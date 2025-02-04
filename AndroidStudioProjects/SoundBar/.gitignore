@@ -1,0 +1,27 @@
+# Ignore sensitive files
+secrets.properties
+
+# Ignore Android Studio files
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Ignore system files
+.DS_Store
+
+# Ignore build and capture directories
+/build
+/captures
+
+# Ignore external native build files
+.externalNativeBuild
+.cxx
+
+# Ignore local properties file
+local.properties

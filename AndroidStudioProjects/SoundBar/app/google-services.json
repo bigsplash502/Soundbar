@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192192497178",
+    "project_id": "soundbar-8d7ef",
+    "storage_bucket": "soundbar-8d7ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192192497178:android:43c1ee0e40a59969fb33a3",
+        "android_client_info": {
+          "package_name": "com.example.soundbar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClnjwsgVrHjeUYOUFi8xNUgM_AFkVvV9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
